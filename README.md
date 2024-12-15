@@ -172,7 +172,7 @@ Contributions are welcome! Feel free to [open an issue](https://github.com/TheTo
 - 🌍 Portfolio: [TheToriqul.com](https://thetoriqul.com)
 
 ## 👏 Acknowledgments
-
+- [Poridhi for providing comprehensive labs and inspiring this project](https://devops.poridhi.io/) 
 - The Docker and Docker Compose communities for their excellent documentation
 - The Flask and Redis teams for their robust and reliable technologies
 - The open-source community for continuous inspiration and learning resources
